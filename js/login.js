@@ -1,3 +1,4 @@
+const BACKEND_URL = "https://hospital-backend.onrender.“
 // Mock users (admin and regular users)
 const initUsers = () => {
     if (!localStorage.getItem("users")) {
